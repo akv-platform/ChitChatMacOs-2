@@ -304,10 +304,10 @@
 				INFOPLIST_FILE = WhatsMac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				OTHER_LDFLAGS = "-Wl,-rpath,@loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.ChitChat";
+				PRODUCT_BUNDLE_IDENTIFIER = "test.akvelon.Frankenstein";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f93423ac-c471-48f5-97ae-19448a2af3d3";
-				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app macOS ChitChat";
+				PROVISIONING_PROFILE = "96db29a8-6db5-471b-a1b6-6c1c96934f8c";
+				PROVISIONING_PROFILE_SPECIFIER = "MacDevPP";
 			};
 			name = Debug;
 		};
@@ -326,10 +326,10 @@
 				INFOPLIST_FILE = WhatsMac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				OTHER_LDFLAGS = "-Wl,-rpath,@loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.ChitChat";
+				PRODUCT_BUNDLE_IDENTIFIER = "test.akvelon.Frankenstein";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f93423ac-c471-48f5-97ae-19448a2af3d3";
-				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app macOS ChitChat";
+				PROVISIONING_PROFILE = "96db29a8-6db5-471b-a1b6-6c1c96934f8c";
+				PROVISIONING_PROFILE_SPECIFIER = "MacDevPP";
 			};
 			name = Release;
 		};
